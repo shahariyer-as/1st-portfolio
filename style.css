@@ -59,8 +59,8 @@ h2{
 }
 #full-stack-experience{
     border-left: 7px solid;
-    background-image: linear-gradient(salmon , tomato);
-    border-image-slice: 1; 
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
 }
 footer{
     text-align: center;
